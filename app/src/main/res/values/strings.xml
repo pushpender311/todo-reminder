@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">To-Do</string>
+    <string name="notification_prompt">"Timely reminders! 🚀"\nEnable notifications to:\n\nReceive timely reminders about your tasks.\nWe’ll never spam you, and you can turn it off anytime!</string>
+
+
+    <string-array name="recurrence_options">
+        <item>None</item>
+        <item>Every 15 minutes</item>
+        <item>Hourly</item>
+        <item>Daily</item>
+    </string-array>
+
+</resources>
